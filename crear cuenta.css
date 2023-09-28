@@ -1,0 +1,157 @@
+h1, h2{
+    color: rgb(31, 22, 70);
+}
+
+.title {
+    margin-left: 10px;
+    box-sizing: content-box;
+    text-align: left;
+    font-size: 25px;
+    font-family: Montserrat, sans-serif;
+}
+.subtitulo
+{
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    
+}
+label
+{
+    text-align: center;
+    align-items: center;
+}
+input
+{
+    text-align: left;
+}
+p
+{
+    text-align: center;
+ }
+*
+{
+    text-align: center;
+    
+}
+body
+{
+    background-size: cover;
+    background-position: center;
+    background: url(https://i.pinimg.com/originals/e1/26/d3/e126d318274739fbb93081612b4edbc3.jpg);
+}
+.apellido
+{
+    width: 235px;
+    height: 43px;
+    margin-right: auto;
+    border-radius: 5px;
+    border-style:hidden;
+    border-color: rgb(227, 227, 227);
+    /*width: 5cm;
+    height: 1cm; */
+}
+.nombre
+{
+    width: 235px;
+    height: 43px;
+    margin-right: 20px;
+    border-radius: 5px;
+    border-style:hidden;
+    border-color: rgb(227, 227, 227);
+    /*width: 5cm;
+    height: 1cm; */
+}
+.mail
+{
+    width: 500px;
+    height: 43px;
+    border-radius: 5px;
+    border-style: hidden;
+    border-color: rgb(227, 227, 227);
+    /*width: 10.3cm;
+    height: 1cm;*/
+}
+.psw
+{
+    width: 235px;
+    height: 43px;
+    margin-right: 20px;
+    border-radius: 5px;
+    border-style:hidden;
+    border-color: rgb(227, 227, 227);
+    /*width: 5cm;
+    height: 1cm; */
+}
+.psw2
+{
+    width: 235px;
+    height: 43px;
+    border-radius: 5px;
+    border-style:hidden;
+    border-color: rgb(227, 227, 227);
+    /*width: 6.5cm;
+    height: 1cm; */
+}
+.tel
+{
+    width: 500px;
+    height: 43px;
+    border-radius: 5px;
+    border-style:hidden;
+    border-color: rgb(227, 227, 227);
+}
+.boton
+{
+    width: 4cm;
+    height: 1.1cm;
+    background-color: rgb(66, 179, 66);
+    text-align: center;
+    border-radius: 35px;
+    border-style: none; 
+    font-size: 17px;
+    font-weight: 900;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    /*width: 4cm;
+    height: 1.1cm; */
+
+}
+.artis
+{
+    margin-top: -45px;
+    display: block;
+    margin-left: auto;
+    margin-bottom: auto;
+    width: 70px;
+    height: 70px;
+}
+.checkbox
+{
+    font-size: 20px;
+    margin-right: 285px;
+
+}
+.a
+{
+    color: rgb(22, 92, 22);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.leyenda
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.b
+{
+    color: rgb(22, 92, 22);
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.v
+{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

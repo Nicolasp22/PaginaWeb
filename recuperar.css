@@ -1,0 +1,47 @@
+body
+{
+    text-align: center;
+    background: url(https://i.pinimg.com/originals/e1/26/d3/e126d318274739fbb93081612b4edbc3.jpg);
+    font-family: Montserrat, sans-serif;
+}
+.empresa
+{
+    text-align: left;
+    font-size: 25px;
+    margin-left: 10px;
+
+}
+.subtitulo
+{
+    margin-top: 110px;
+
+}
+.mail
+{
+    margin-top: 30px;
+    width: 500px;
+    height: 45px;
+    border-radius: 10px;
+    border-style: none;
+}
+.recuperar
+{
+    width: 500px;
+    height: 45px;
+    border-radius: 25px;
+    background-color: rgb(66, 179, 66);
+    border-style: none;
+    color: white;
+    font-weight: 600;
+    font-family: Montserrat, sans-serif;
+
+}
+.volver
+{
+    width: 200px;
+    height: 35px;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(25, 26, 25);
+}

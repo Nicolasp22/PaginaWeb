@@ -1,0 +1,89 @@
+*
+{
+    text-align: center;
+}
+body
+{
+    background-size: cover;
+    background-position: center;
+    background: url(https://i.pinimg.com/originals/e1/26/d3/e126d318274739fbb93081612b4edbc3.jpg);
+}
+.compañia
+{
+    margin-left: 10px;
+    text-align: left;
+    font-size: 25px;
+    font-family: Montserrat, sans-serif;
+    
+}
+.titulo
+{
+    margin-top: 45px;
+    text-align: center;
+    font-size: 35px;
+    font-family: Montserrat, sans-serif;
+
+}
+.mail
+{
+    text-align: left;
+    margin-top: 0px;
+    width: 500px;
+    height: 43px;
+    border-radius: 10px;
+    border-style: hidden;
+
+}
+.psw
+{
+    text-align: left;
+    width: 500px;
+    height: 43px;
+    border-radius: 10px;
+    border-style: hidden;
+    
+}
+.recupero
+{
+    font-size: 20px;
+    list-style: none;
+    color: rgb(17, 17, 17);
+    text-decoration-line: none;
+    
+
+}
+.boton
+{
+    
+    width: 160px;
+    height: 45px;
+    border-radius: 40px;
+    background-color: rgb(66, 179, 66);
+    border-style:none;
+    color: white;
+    font-weight: 900;
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+
+}
+.leyenda
+{
+    font-size: 20px;
+
+}
+.crear
+{
+    font-size: 25px;
+    color: rgb(22, 92, 22);
+    text-decoration-line: none;
+    font-weight: 800;
+}
+.artis
+{
+    margin-top: 55px;
+    align-items: end;
+    display: block;
+    margin-left: auto;
+    width: 70px;
+    height: 70px;
+}
